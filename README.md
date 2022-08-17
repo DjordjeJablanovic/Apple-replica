@@ -1,6 +1,6 @@
 # Apple Web Site Replica
 
-Live site https://melodious-speculoos-ef776e.netlify.app
+Live site apple13-replica.netlify.app
  
   Front page of Apple web site with responsive design.
   
