@@ -1,6 +1,6 @@
 # Apple Web Site Replica
 
-Live site apple13-replica.netlify.app
+Live site https://apple13-replica.netlify.app
  
   Front page of Apple web site with responsive design.
   
